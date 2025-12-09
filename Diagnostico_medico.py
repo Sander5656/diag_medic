@@ -17,7 +17,7 @@ DB_CONFIG = {
     "port": 5432,
     "dbname": "medic_database",
     "user": "postgres",
-    "password": "andreapaolagomezavilaminovia"
+    "password": ""
 }
 
 # ---------- Helper DB ----------
